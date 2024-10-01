@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/HKTareen">HK Tareen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8vOFxIdVqtqvK/giphy.gif" width="400" alt="Laptop Coding Animation">
+  <img src="https://media.giphy.com/media/l1J9qGRY5O97GykYO/giphy.gif" width="400" alt="Programming Animation">
 </p>
 
 ## 📖 About me
