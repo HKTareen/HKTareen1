@@ -1,6 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#">
+  <img width="100%" height="auto" src="https://media.giphy.com/media/xT39D3p8c4F7s9th9e/giphy.gif" alt="Attractive Coding Animation" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);" />
+</a>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/HKTareen">HK Tareen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> //<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/HKTareen">HK Tareen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
 
