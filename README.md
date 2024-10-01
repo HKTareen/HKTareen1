@@ -54,7 +54,7 @@
   <a href="https://www.fiverr.com/hamzakhan6544"><img alt="Portfolio" title="Click Me" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-## 🌐 My Work
+## 🌐 Developed Apps
 
 <p align="left">
   <a href="https://www.getfrich.com/"><img alt="Frich" title="Frich" src="https://img.shields.io/badge/-Get%20Frich-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
