@@ -1,12 +1,7 @@
 <a href="#">
-  <img width="100%" height="auto" src="https://your-animation-link.gif" alt="Coder Animation" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);" />
+  <img width="100%" height="auto" src="https://media.giphy.com/media/3oEjI6SIIHBdRxm0oU/giphy.gif" alt="Simple Animation" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);" />
 </a>
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 <h3 align="center">Hey there, I'm <a href="https://github.com/HKTareen">HK Tareen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> //<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
@@ -51,9 +46,11 @@
 ### Cloud & DevOps:
 - **Azure Functions / Blob Storage / Azure Files / Azure DB**
 - **Azure Load Balancer / App Service / Azure Virtual Machine (VM)**
+
+  ## 📂 My Portfolio
   
 <p align="left">
-  <a href="https://www.fiverr.com/hamzakhan6544"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/hamzakhan6544"><img alt="Portfolio" title="Click Me" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🌐 My Work
