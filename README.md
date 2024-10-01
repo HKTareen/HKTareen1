@@ -1,8 +1,8 @@
-<a href="#">
-  <img width="100%" height="auto" src="https://media.giphy.com/media/KsN1LFm16O2cQZ3RG5/giphy.gif" alt="Coder Typing Animation" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);" />
-</a>
-
 <h3 align="center">Hey there, I'm <a href="https://github.com/HKTareen">HK Tareen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8vOFxIdVqtqvK/giphy.gif" width="400" alt="Laptop Coding Animation">
+</p>
 
 ## 📖 About me
 
