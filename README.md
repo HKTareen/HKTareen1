@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding Animation">
+<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a>
 </p>
+
 
 ## 📖 About me
 
